@@ -1,0 +1,21 @@
+# ninja log v5
+0	148	7164747376027516	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+149	225	7164747376747568	guessing_nimber.exe	f4c97cc12a8bfea
+1	63	7164748896942676	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+63	130	7164748897565375	guessing_nimber.exe	f4c97cc12a8bfea
+1	63	7164749013678403	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+64	129	7164749014288721	guessing_nimber.exe	f4c97cc12a8bfea
+1	59	7164749120339137	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+60	127	7164749120993002	guessing_nimber.exe	f4c97cc12a8bfea
+1	59	7164749707355201	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+60	128	7164749708010361	guessing_nimber.exe	f4c97cc12a8bfea
+2	67	7164751111943524	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+68	135	7164751112590711	guessing_nimber.exe	f4c97cc12a8bfea
+2	62	7164752817306455	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+62	126	7164752817916894	guessing_nimber.exe	f4c97cc12a8bfea
+1	57	7164753508090942	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+57	122	7164753508720167	guessing_nimber.exe	f4c97cc12a8bfea
+1	57	7164754468577515	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+58	126	7164754469226724	guessing_nimber.exe	f4c97cc12a8bfea
+2	58	7164755173564060	CMakeFiles/guessing_nimber.dir/main.c.obj	22941c509f61589
+59	180	7164755174726128	guessing_nimber.exe	f4c97cc12a8bfea

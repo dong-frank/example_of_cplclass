@@ -1,0 +1,4 @@
+# ninja log v5
+1	88	7164735687158270	build.ninja	a8cdb4e76c3f28b6
+1	64	7164721154171343	CMakeFiles/untitled.dir/hello.c.obj	1ce8caef77945708
+64	135	7164721154841391	untitled.exe	623795793fc8d62a
